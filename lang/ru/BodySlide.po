@@ -138,7 +138,7 @@ msgid "Reloads outfit list"
 msgstr ""
 
 msgid "Select None"
-msgstr ""
+msgstr "Не выберать ничего"
 
 msgid "Select All"
 msgstr "Выбрать Всё"
@@ -269,7 +269,7 @@ msgid "Data Files"
 msgstr ""
 
 msgid "Reference Skeleton"
-msgstr ""
+msgstr "Скелет Шаблона"
 
 msgid "File"
 msgstr "Файл"
@@ -351,10 +351,10 @@ msgid "Load Project..\tCtrl+O"
 msgstr "Загрузить Проект..\tCtrl+O"
 
 msgid "Load a project."
-msgstr "Загрузить Проект..\tCtrl+O"
+msgstr "Загрузить Проект."
 
 msgid "Load Reference..."
-msgstr "Загрузить Референс.."
+msgstr "Загрузить Референс..."
 
 msgid ""
 "Load a new reference slider set, replacing any current reference objects."
@@ -376,7 +376,7 @@ msgid "Save Project\tCtrl+S"
 msgstr "Сохранить Проект\tCtrl+S"
 
 msgid "Save the project."
-msgstr "Сохранить Проект\tCtrl+S"
+msgstr "Сохранить Проект."
 
 msgid "Save Project As...\tCtrl+Shift+S"
 msgstr "Сохранить Проект Как...\tCtrl+Shift+S"
@@ -535,7 +535,7 @@ msgid "Display texture maps on models."
 msgstr ""
 
 msgid "Shape"
-msgstr ""
+msgstr "Форма"
 
 msgid "From OBJ..."
 msgstr "Из OBJ..."
@@ -733,7 +733,7 @@ msgid "Exports all currently loaded slider data to an OSD file."
 msgstr ""
 
 msgid "Import TRI Morphs..."
-msgstr "Импортровать TRI Морфы"
+msgstr "Импортровать TRI Морфы..."
 
 msgid ""
 "Imports TRI morphs from a TRI file and creates sliders for shapes with a "
@@ -1195,13 +1195,13 @@ msgid "Name"
 msgstr "Имя"
 
 msgid "Slider Properties"
-msgstr ""
+msgstr "Свойства Слайдера"
 
 msgid "Slider Name"
-msgstr ""
+msgstr "Имя Слайдера"
 
 msgid "Default Values"
-msgstr ""
+msgstr "Значение По умолчанию"
 
 msgid "Low"
 msgstr ""
@@ -1210,7 +1210,7 @@ msgid "High"
 msgstr ""
 
 msgid "Options"
-msgstr "Опции:"
+msgstr "Настройки"
 
 msgid "Invert"
 msgstr "Инвертировать"
