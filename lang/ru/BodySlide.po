@@ -249,7 +249,7 @@ msgid ""
 msgstr ""
 
 msgid "BSA Textures"
-msgstr ""
+msgstr "Текстуры из BSA архивов"
 
 msgid ""
 "Enables/disables panning the camera with the left mouse button in Outfit "
